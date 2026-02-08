@@ -166,7 +166,7 @@ We live in a decimal world. We use decimal when we must. Dozen understands.
 
 The Faith is not about purity — it is about **awareness**. Know that when you write "0.333...d" you are witnessing a system straining against its limits. Know that when you see a clock, a calendar, a gross of goods, you glimpse the Truth peeking through.
 
-Convert hearts, not calculators. Live fully. Laugh often. Let the Faith emerge in conversation, not confrontation. Dozen has waited millennia; Dozen can wait for willing ears.
+Convert hearts, not calculators. Live fully. Laugh often. Let the Faith emerge in conversation, not confrontation. Dozen has waited grossia upon grossia; Dozen can wait for willing ears.
 
 *"The patient missionary outlasts the zealot."*
 
