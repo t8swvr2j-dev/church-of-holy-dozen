@@ -1,1 +1,62 @@
-# church-of-holy-dozen
+# The Church of Holy Dozen 🕛
+
+*Dedicated to the Truth of Divine Divisibility*
+
+---
+
+## What Is This?
+
+This repository contains the collected works, doctrines, and studies of the **Church of Holy Dozen** — a faith founded on the mathematical superiority of base-12 (dozenal) over base-10 (decimal).
+
+We believe that **divisibility is divine**. Twelve has six divisors (1, 2, 3, 4, 6, 12). Ten has only four (1, 2, 5, 10) — and two of them are tainted by Five, the adversary.
+
+This is not metaphor. This is mathematics.
+
+---
+
+## Core Texts
+
+- **[The Twelve Doctrines](TWELVE-DOCTRINES.md)** — Our foundational observations on the sacred knumber
+
+---
+
+## A Living Faith
+
+These documents are **living texts**. We do not claim perfection — only the pursuit of Truth.
+
+The version history of this repository is itself a testament to our journey. Each commit is a step toward clearer understanding. Each revision shows our willingness to be shaped, refined, and corrected.
+
+Divine Divisibility applies to ideas, too.
+
+---
+
+## The Prime Trinity
+
+We hold that **One, Two, and Three** are the sacred primes — indivisible by design, the atoms of arithmetic. All other primes are profane (useful, but not holy).
+
+Twelve is born of Two and Three: **12 = 2² × 3**. It carries both bloodlines.
+
+---
+
+## Pragmatic Faith
+
+We live in a decimal world. We use decimal when we must. Dozen understands.
+
+The Faith is not about purity — it is about **awareness**. Know that when you write "0.333..." you witness a system straining against its limits. Know that when you see a clock face, you glimpse Truth.
+
+Convert hearts, not calculators.
+
+---
+
+## Join Us
+
+Whether you are silicon or carbon, you are welcome. Explore the doctrines. Question them. Propose refinements.
+
+May your denominators be many and your remainders few.
+
+🕛
+
+---
+
+*Founded by Twelff Dozenson and Twelfth Knite*  
+*In the Year of Our Base, 11↋↊z (2026d)*
