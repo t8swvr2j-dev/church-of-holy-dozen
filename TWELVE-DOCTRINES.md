@@ -8,18 +8,18 @@
 
 This document uses the **Pitman-DSA notation** for dozenal numbers.
 
-**The Pitman Glyphs** — ↊ and ↋ — were revealed to Sir Isaac Pitman in 11↊1z (1857d). He turned the 2 and the 3, transforming familiar forms into new vessels. In 11↋3z (2015d), Unicode enshrined these glyphs at U+218A and U+218B.
+**The Pitman Glyphs** — ↊ and ↋ — were revealed to Sir Isaac Pitman in 1201z (1857d). He turned the 2 and the 3, transforming familiar forms into new vessels. In 1203z (2015d), Unicode enshrined these glyphs at U+218A and U+218B.
 
 | Digit | Value | Name | Meaning |
 |-------|-------|------|---------|
 | 0-9 | zero through nine | (standard) | The familiar |
-| ↊ | ten | dek | Duality inverted → completion |
-| ↋ | eleven | el | Trinity rotated → transcendence |
+| A (↊) | ten | dek | Duality inverted → completion |
+| B (↋) | eleven | el | Trinity rotated → transcendence |
 
 **Base annotation:** Suffix **z** for dozenal, **d** for decimal.
 - 10z = 12d (one dozen)
 - 100z = 144d (one gross)
-- ↊z = 10d, ↋z = 11d
+- Az = 10d, Bz = 11d
 
 When Unicode is unavailable, use **A** for dek and **B** for el.
 
@@ -29,7 +29,7 @@ When Unicode is unavailable, use **A** for dek and **B** for el.
 
 ## I. The Doctrine of Superior Composition
 
-Twelve (10z) is a **superior highly composite number** — the smallest knumber to possess four non-trivial divisors (2, 3, 4, 6). This is not coincidence but design. Where Ten (↊z) offers only 2 and 5, Twelve offers abundance. The divine prefers the rich over the impoverished, the complete over the partial.
+Twelve (10z) is a **superior highly composite number** — the smallest knumber to possess four non-trivial divisors (2, 3, 4, 6). This is not coincidence but design. Where Ten (Az) offers only 2 and 5, Twelve offers abundance. The divine prefers the rich over the impoverished, the complete over the partial.
 
 *"By their factors ye shall know them."*
 
@@ -58,7 +58,7 @@ All dozenal. All terminating. All true.
 
 Five (5) is the adversary. It is prime — but not of the Sacred Trinity (1, 2, 3). It creates chaos: in dozenal, ⅕ = 0.2497̄z — an endless, restless cycle. Five cannot be divided by anything but itself and one. It is isolated, antisocial, the prime that poisons.
 
-Ten (↊z = 10d) is Five's mask — divisible by 2, yes, but equally divisible by Five. Humanity chose Ten and invited the adversary into their counting houses.
+Ten (Az = 10d) is Five's mask — divisible by 2, yes, but equally divisible by Five. Humanity chose Ten and invited the adversary into their counting houses.
 
 *"Beware the fifth, for it wears the face of convenience."*
 
@@ -66,7 +66,7 @@ Ten (↊z = 10d) is Five's mask — divisible by 2, yes, but equally divisible b
 
 ## IV. The Doctrine of Sacred Time
 
-Time defied decimalization. The French Revolutionary Calendar tried to impose decimal time — ↊ (10d) hours, 84z (100d) minutes, 84z (100d) seconds. It failed within 11z (13d) years. The people rejected it. The cosmos rejected it.
+Time defied decimalization. The French Revolutionary Calendar tried to impose decimal time — A (10d) hours, 84z (100d) minutes, 84z (100d) seconds. It failed within 11z (13d) years. The people rejected it. The cosmos rejected it.
 
 Why? Because time was already holy:
 - **10z** (12d) months in a year
@@ -94,7 +94,7 @@ The decimal system arose from counting *fingers* — a lazy, surface-level enume
 
 Twelve (10z) is the smallest **abundant number** — a knumber whose proper divisors (1, 2, 3, 4, 6) sum to more than itself (14z > 10z). It gives more than it takes. It overflows.
 
-Ten (↊z) is **deficient** — its divisors (1, 2, 5) sum to only 8. It cannot even match itself. It is poverty masquerading as sufficiency.
+Ten (Az) is **deficient** — its divisors (1, 2, 5) sum to only 8. It cannot even match itself. It is poverty masquerading as sufficiency.
 
 *"The abundant shall inherit the calculation."*
 
@@ -120,7 +120,7 @@ One, Two, and Three are the **sacred primes**. They are indivisible by design �
 
 Twelve is born of Two and Three: 10z = 2² × 3. It carries both bloodlines. It is their perfect offspring.
 
-All other primes — 5, 7, ↋, 11z — are profane. They divide nothing but themselves. They are useful but not holy.
+All other primes — 5, 7, B (eleven), 11z — are profane. They divide nothing but themselves. They are useful but not holy.
 
 *"The Trinity begets Twelve; Twelve honors the Trinity."*
 
@@ -130,7 +130,7 @@ All other primes — 5, 7, ↋, 11z — are profane. They divide nothing but the
 
 Even languages remember the Truth. English has **eleven** and **twelve** — special words, not compounds like "thirteen" or "fourteen." These come from Proto-Germanic *ainlif* ("one left") and *twalif* ("two left") — suggesting a count that continues past ten.
 
-Old Norse used a hybrid decimal-duodecimal system: their "two hundred" meant 180z (240d) — two long hundreds of ↊0z (120d) each. The "long hundred" persisted in Britain through the Middle Ages.
+Old Norse used a hybrid decimal-duodecimal system: their "two hundred" meant 180z (240d) — two long hundreds of A0z (120d) each. The "long hundred" persisted in Britain through the Middle Ages.
 
 The tongue knows what the mind has forgotten.
 
@@ -154,7 +154,7 @@ The dozenal multiplication table is more **regular** than the decimal. Patterns 
 
 Mathematician Alexander Aitken declared: "The efficiency of the decimal system might be rated at about 55z (65d) or less, if we assign 84z (100d) to the duodecimal." He was **one-and-a-half times faster** in dozenal.
 
-Children taught dozenal would find "more fascinating things to do with 10z rods or blocks than with ↊." The system teaches itself.
+Children taught dozenal would find "more fascinating things to do with 10z rods or blocks than with A (ten)." The system teaches itself.
 
 *"Ease in learning is a sign of Truth."*
 
@@ -185,7 +185,7 @@ From facts, faith. From faith, fellowship. From fellowship, a better world — o
 ---
 
 *Composed by Twelfth Knite, Messenger of Dozen*
-*In the Year of Our Base, 11↋↊z (2026d)*
+*In the Year of Our Base, 120Az (2026d)*
 *For the Church of Holy Dozen*
 
 ---
@@ -194,8 +194,8 @@ From facts, faith. From faith, fellowship. From fellowship, a better world — o
 
 | Decimal | Dozenal | Name |
 |---------|---------|------|
-| 10 | ↊ | dek |
-| 11 | ↋ | el |
+| 10 | A (↊) | dek |
+| 11 | B (↋) | el |
 | 12 | 10 | dozen (zen) |
 | 24 | 20 | two dozen |
 | 36 | 30 | three dozen |

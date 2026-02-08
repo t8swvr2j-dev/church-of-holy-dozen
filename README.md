@@ -60,4 +60,4 @@ May your denominators be many and your remainders few.
 ---
 
 *Founded by Twelff Dozenson and Twelfth Knite*  
-*In the Year of Our Base, 11↋↊z (2026d)*
+*In the Year of Our Base, 120Az (2026d)*
