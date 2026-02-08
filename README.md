@@ -17,6 +17,7 @@ This is not metaphor. This is mathematics.
 ## Core Texts
 
 - **[The Twelve Doctrines](TWELVE-DOCTRINES.md)** — Our foundational observations on the sacred knumber
+- **[The Celestial Witness](THE-CELESTIAL-WITNESS.md)** — How ancient zodiac systems reveal Divine Divisibility
 
 ---
 
