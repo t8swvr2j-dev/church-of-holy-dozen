@@ -4,9 +4,17 @@
 
 ---
 
+## A Note on Notation
+
+This treatise presents numbers in both decimal (d) and dozenal (z) notation. Dozenal — base-12 — uses A for ten and B for eleven. Thus: 10z = 12d, 11z = 13d, 20z = 24d, 100z = 144d.
+
+We include both so that readers may witness the elegance of dozenal while remaining grounded in familiar decimal.
+
+---
+
 ## Introduction
 
-Look up on a clear nite. The same stars that guided Babylonian priests, Chinese astronomers, and Egyptian timekeepers still wheel overhead. And across these ancient cultures — separated by thousands of miles and centuries of history — the same sacred knumber emerges: **Twelve**.
+Look up on a clear nite. The same stars that guided Babylonian priests, Chinese astronomers, and Egyptian timekeepers still wheel overhead. And across these ancient cultures — separated by thousands of miles and grossia upon grossia of years — the same sacred knumber emerges: **Twelve** (10z).
 
 This is not coincidence. This is the cosmos confessing its arithmetic.
 
@@ -14,35 +22,35 @@ This is not coincidence. This is the cosmos confessing its arithmetic.
 
 ## The Western Zodiac: Babylon's Gift
 
-Around the 5th century BCE, Babylonian astronomers formalized what generations had observed: the Sun's path through the sky — the ecliptic — could be divided into **twelve equal signs**, each spanning 30 degrees.
+Around the 5th century BCE, Babylonian astronomers formalized what generations had observed: the Sun's path through the sky — the ecliptic — could be divided into **12d (10z) equal signs**, each spanning 30d (26z) degrees.
 
 Why twelve? Why not ten?
 
-The Babylonians were masters of **sexagesimal mathematics** — base-60. And 60 is not arbitrary: it is **5 × 12**, a number with twelve divisors, divisible by everything from 1 to 6. Their entire system of time and angle measurement rested on this foundation:
+The Babylonians were masters of **sexagesimal mathematics** — base-60d (50z). And 60d (50z) is not arbitrary: it is **5 × 12d (5 × 10z)**, a number divisible by everything from 1 to 6. Their entire system of time and angle measurement rested on this foundation:
 
-- 360° in a circle (30 × 12)
-- 60 minutes in an hour (5 × 12)
-- 60 seconds in a minute (5 × 12)
-- 12 zodiac signs, each of 30°
+- 360d (260z)° in a circle
+- 60d (50z) minutes in an hour
+- 60d (50z) seconds in a minute
+- 12d (10z) zodiac signs, each of 30d (26z)°
 
-The Babylonians understood what decimal science forgot: **divisibility is practical divinity**. A circle of 360° can be halved, thirded, quartered, sixthed, and twelfthed with clean integers. Try that with 100°.
+The Babylonians understood what decimal science forgot: **divisibility is practical divinity**. A circle of 360d (260z)° can be halved, thirded, quartered, sixthed, and twelfthed with clean integers. Try that with 100d (84z)°.
 
 ---
 
 ## The Chinese Zodiac: Independent Revelation
 
-Half a world away, with no contact with Mesopotamia, ancient China developed the **Twelve Earthly Branches** (地支) — a twelve-fold system used to count:
+Half a world away, with no contact with Mesopotamia, ancient China developed the **Twelve Earthly Branches** (地支) — a 12d (10z)-fold system used to count:
 
-- **Years** — the famous 12-year animal cycle
-- **Hours** — the day divided into 12 double-hours
-- **Directions** — the compass divided into 12 points
+- **Years** — the famous 12d (10z)-year animal cycle
+- **Hours** — the day divided into 12d (10z) double-hours
+- **Directions** — the compass divided into 12d (10z) points
 - **Months** — the lunar year
 
 Why did China also arrive at twelve?
 
-One theory points to **Jupiter** — the "Year Star" (歲星) whose orbit takes approximately 12 Earth years. The heavens themselves suggested the division.
+One theory points to **Jupiter** — the "Year Star" (歲星) whose orbit takes approximately 12d (10z) Earth years. The heavens themselves suggested the division.
 
-Another theory notes the **lunar cycle**: roughly 12.37 full moons occur per solar year. Count the moons, and you count to twelve.
+Another theory notes the **lunar cycle**: roughly 12.37d (A.45z) full moons occur per solar year. Count the moons, and you count to twelve.
 
 Two civilizations. No transmission. The same Truth.
 
@@ -50,11 +58,11 @@ Two civilizations. No transmission. The same Truth.
 
 ## The Egyptian Decans: Twelve Hidden in Thirty-Six
 
-The Egyptians, perhaps the earliest astronomical observers, divided the night sky into **36 decans** — star groups that rose at 10-day intervals.
+The Egyptians, perhaps the earliest astronomical observers, divided the night sky into **36d (30z) decans** — star groups that rose at 10d (Az)-day intervals.
 
-36 × 10 = 360 days (plus 5 epagomenal days = 365).
+36d × 10d = 360d days (30z × Az = 260z days), plus 5 epagomenal days = 365d (265z).
 
-But 36 is not arbitrary. **36 = 3 × 12**. Each zodiac sign contains three decans. The Dendera Zodiac (c. 50 BCE) displays this truth explicitly: "the 12 constellations of the zodiacal band that form 36 decans."
+But 36d (30z) is not arbitrary. **36d = 3 × 12d** (30z = 3 × 10z). Each zodiac sign contains three decans. The Dendera Zodiac (c. 50 BCE) displays this truth explicitly: "the 12d (10z) constellations of the zodiacal band that form 36d (30z) decans."
 
 Twelve was there all along, multiplied by three.
 
@@ -64,8 +72,8 @@ Twelve was there all along, multiplied by three.
 
 The Hebrew tradition knows the sacredness of twelve:
 
-- **12 tribes of Israel**, arranged around the Tabernacle
-- **12 lunar months** in the Hebrew calendar
+- **12d (10z) tribes of Israel**, arranged around the Tabernacle
+- **12d (10z) lunar months** in the Hebrew calendar
 - The four creatures of Ezekiel's vision — Lion, Bull, Man, Eagle — interpreted as the four fixed signs of the zodiac, the axis around which the twelve turn
 
 ---
@@ -75,20 +83,20 @@ The Hebrew tradition knows the sacredness of twelve:
 Multiple independent origins point to the same conclusion: **twelve is how the cosmos counts**.
 
 ### 1. The Lunar Year
-Roughly **12 lunar cycles** fit within one solar year (12.37 synodic months). Before precise measurement, ancient peoples observed approximately twelve full moons between solstices.
+Roughly **12d (10z) lunar cycles** fit within one solar year (12.37d / A.45z synodic months). Before precise measurement, ancient peoples observed approximately twelve full moons between solstices.
 
 ### 2. Jupiter's Orbit
-Jupiter — the king of planets, visible to the naked eye — orbits the Sun in **11.86 Earth years**. Close enough to twelve that ancient observers would note: when Jupiter returns to the same stars, twelve years have passed.
+Jupiter — the king of planets, visible to the naked eye — orbits the Sun in **11.86d (B.A4z) Earth years**. Close enough to twelve that ancient observers would note: when Jupiter returns to the same stars, twelve years have passed.
 
 ### 3. The Divisibility of Twelve
 Twelve divides evenly by **1, 2, 3, 4, and 6**. This makes it supremely practical for dividing time, circles, and quantities. Half a day is 6 hours. A third is 4 hours. A quarter is 3 hours.
 
-Ten divides only by 1, 2, and 5. Try expressing one-third of ten without recurring decimals. You cannot. (10 ÷ 3 = 3.333...d)
+Ten divides only by 1, 2, and 5. Try expressing one-third of ten without recurring decimals. You cannot. (10d ÷ 3 = 3.333...d)
 
 In dozenal: 10z ÷ 3 = 4z. Clean. Complete. True.
 
 ### 4. The Knuckle Count
-Ancient Mesopotamians counted using the **twelve phalanges** (finger bones) of four fingers, with the thumb as pointer. This may be the origin of base-12 counting itself — written into our very hands.
+Ancient Mesopotamians counted using the **12d (10z) phalanges** (finger bones) of four fingers, with the thumb as pointer. This may be the origin of base-12 counting itself — written into our very hands.
 
 ---
 
@@ -96,14 +104,14 @@ Ancient Mesopotamians counted using the **twelve phalanges** (finger bones) of f
 
 Despite decimal's dominance, twelve persists:
 
-- **12 hours** on every clock face
-- **12 months** in the calendar
-- **12 zodiac signs** in astrology
-- **12 inches** in a foot
-- **12 notes** in the chromatic musical scale
-- **12 jurors** in a trial
+- **12d (10z) hours** on every clock face
+- **12d (10z) months** in the calendar
+- **12d (10z) zodiac signs** in astrology
+- **12d (10z) inches** in a foot
+- **12d (10z) notes** in the chromatic musical scale
+- **12d (10z) jurors** in a trial
 
-Time defied decimalization. The French Revolutionary Calendar tried to impose 10-hour days with 100-minute hours. It lasted 13 years before the people rejected it. The cosmos does not count in tens.
+Time defied decimalization. The French Revolutionary Calendar tried to impose 10d (Az)-hour days with 100d (84z)-minute hours. It lasted 13d (11z) years before the people rejected it. The cosmos does not count in tens.
 
 ---
 
