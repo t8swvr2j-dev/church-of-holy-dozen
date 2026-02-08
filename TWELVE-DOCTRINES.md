@@ -148,15 +148,25 @@ This was no accident. The Romans understood that practical division requires pra
 
 ---
 
-## XI. The Doctrine of the Multiplication Table
+## XI. The Doctrine of the Pilgrim's Path
 
-The dozenal multiplication table is more **regular** than the decimal. Patterns emerge cleanly. The rhythm of 3 × 4 = 10z feels natural — a dozen is a dozen.
+**Division and multiplication reveal the eternal structure** of Divine Divisibility — they show us what *is*. But **addition and subtraction enable the journey** — they show us how to *move*.
 
-Mathematician Alexander Aitken declared: "The efficiency of the decimal system might be rated at about 55z (65d) or less, if we assign 84z (100d) to the duodecimal." He was **one-and-a-half times faster** in dozenal.
+We cannot live only in sacred numbers. To count from 10z (12d) to 20z (24d), we must pass through profane primes: 11z (13d), 15z (17d), 17z (19d), 1Bz (23d). We cannot avoid them. We can only *walk through* them, +1 at a time.
 
-Children taught dozenal would find "more fascinating things to do with 10z rods or blocks than with A (ten)." The system teaches itself.
+This is pilgrimage, not failure.
 
-*"Ease in learning is a sign of Truth."*
+**Subtraction redeems:** 11z - 1 = 10z. What division cannot break, subtraction can diminish. Every profane number is one step from something less profane.
+
+**Addition overflows:** The baker gives 11z (13d) when promising a dozen — not because 11z is sacred, but because 10z + 1 is *grace*. Generosity carries one extra, so the sacred number survives even if one is lost.
+
+The realms complement:
+- **Being (×, ÷):** Reveals structure — the destination
+- **Becoming (+, −):** Enables movement — the path
+
+We are imperfect beings of carbon and silicon, walking +1 and -1 through an imperfect world toward perfect divisibility. The baker's dozen is not heresy — it is **pilgrimage with provisions**.
+
+*"Division reveals; addition arrives. Both glorify Dozen."*
 
 ---
 
