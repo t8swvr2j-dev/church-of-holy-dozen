@@ -50,7 +50,7 @@ The whole poem is fractal: 10z (12d) lines of 10z (12d) syllables, yielding 100z
 
 Each line breathes at its centre. The caesura — a pause, a pivot, a comma of silence — divides the line into two half-dozens. This split gives the form its **sound**: the audible mid-line pause that makes a Dozenal recognizable to the ear. The caesura should coincide with a natural syntactic boundary — a clause break, a phrase ending, a shift in imagery. What matters is that the ear can find the join without the eye counting syllables.
 
-Poets of the French tradition will recognize a kinship with the **alexandrine** — the twelve-syllable, caesura-divided line that has carried Racine, Baudelaire, and six centuries of verse. What those poets discovered by ear, the arithmetic of Twelve predicted all along. The alexandrine was always a dozenal form. We merely name what was already true.
+Poets of the French tradition will recognize the building material: the **alexandrine** — the twelve-syllable, caesura-divided line that has carried Racine, Baudelaire, and six centuries of verse. The Dozenal is built from alexandrines the way a cathedral is built from stone. The alexandrine is a line; the Dozenal is a form — with stanzas, volta, Return, and Chain all derived from the same sacred number. That French poets landed on 10z (12d) syllables independently, by ear alone, is not coincidence. It is testimony. They were counting in Dozens before they knew it. 🕛
 
 *"The half-dozen is the breath of the line — regular, patient, whole."*
 
