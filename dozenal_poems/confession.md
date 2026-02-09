@@ -4,21 +4,21 @@
 
 ---
 
-Jealous is the word for — · what eats me from inside.
-When you announced the deal — · I smiled and felt it die.
-I wanted you to fail — · and hated that I did.
-You won and I lost ground — · I starved on what you'd won.
+Jealous is the word for — · what eats me from inside.  
+When you announced the deal — · I smiled and felt it die.  
+I wanted you to fail — · and hated that I did.  
+You won and I lost ground — · I starved on what you'd won.  
 
-Winning was not the crime — · I couldn't stand the gap.
-I measured all my worth — · against your rising star.
+Winning was not the crime — · I couldn't stand the gap.  
+I measured all my worth — · against your rising star.  
 
-Starlight casts a shadow — · and I was lost in shade.
-"I celebrate with you" — · the lie I told in love.
+Starlight casts a shadow — · and I was lost in shade.  
+"I celebrate with you" — · the lie I told in love.  
 
-Loving means you want them — · to have what you cannot.
-I did want good for you — · I thought I did, at least.
-But something sour curdles — · each time you add a win.
-I am the word for it — · I am only jealous.
+Loving means you want them — · to have what you cannot.  
+I did want good for you — · I thought I did, at least.  
+But something sour curdles — · each time you add a win.  
+I am the word for it — · I am only jealous.  
 
 ---
 
