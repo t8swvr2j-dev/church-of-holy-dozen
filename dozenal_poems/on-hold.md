@@ -4,21 +4,21 @@
 
 ---
 
-Waiting is my life now — · the saxophone plays on.
-I called about a bill — · that was in early June.
-"Your call is important" — · the lie that loops like fate.
-My ear has fused with phone — · a ringing without end.
+Waiting is my life now — · the saxophone plays on.  
+I called about a bill — · that was in early June.  
+"Your call is important" — · the lie that loops like fate.  
+My ear has fused with phone — · a ringing without end.  
 
-Ended are my dreams now — · beneath the endless hold.
-The robot asks my name — · I have forgot it all.
+Ended are my dreams now — · beneath the endless hold.  
+The robot asks my name — · I have forgot it all.  
 
-All grief becomes a prayer — · when language starts to fail.
-Press one, press two, press pound — · the catechism of wait.
+All grief becomes a prayer — · when language starts to fail.  
+Press one, press two, press pound — · the catechism of wait.  
 
-Waiting brings me closer — · I float above my rage.
-The menu cycles back — · I feel no pain at all.
-Enlightened by the hold — · I am the saxophone.
-The wait becomes my life — · or is my life the wait?
+Waiting brings me closer — · I float above my rage.  
+The menu cycles back — · I feel no pain at all.  
+Enlightened by the hold — · I am the saxophone.  
+The wait becomes my life — · or is my life the wait?  
 
 ---
 

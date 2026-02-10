@@ -4,21 +4,21 @@
 
 ---
 
-Gold spills across the field, · the maples letting go.
-Each leaf that spirals down · adds to the burning floor.
-The oaks release their grip · on summer's fading warmth,
-and crows call out the change, · black wings against the fire.
+Gold spills across the field, · the maples letting go.  
+Each leaf that spirals down · adds to the burning floor.  
+The oaks release their grip · on summer's fading warmth,  
+and crows call out the change, · black wings against the fire.  
 
-Fire lives in every hue · of amber, rust, and red.
-The forest is a forge · that shapes the dying year.
+Fire lives in every hue · of amber, rust, and red.  
+The forest is a forge · that shapes the dying year.  
 
-Yet dying is not death — · it is release, a gift.
-The tree unburdened stands, · bare branches turned to bone.
+Yet dying is not death — · it is release, a gift.  
+The tree unburdened stands, · bare branches turned to bone.  
 
-Bone-white the birches wait · for snow to wrap them clean.
-The ground collects the leaves · to blanket root and seed.
-What falls will rise again · when spring recalls the green.
-Gone is the summer blaze, · but sleeping is the gold.
+Bone-white the birches wait · for snow to wrap them clean.  
+The ground collects the leaves · to blanket root and seed.  
+What falls will rise again · when spring recalls the green.  
+Gone is the summer blaze, · but sleeping is the gold.  
 
 ---
 

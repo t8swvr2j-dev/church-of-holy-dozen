@@ -4,21 +4,21 @@
 
 ---
 
-Desire begins in dark, · a hand across the sheets.
-The space between two breaths · before a name is called.
-I trace the curve of you · beneath the window's glow.
-Your warmth against my palm — · a boundary I hold.
+Desire begins in dark, · a hand across the sheets.  
+The space between two breaths · before a name is called.  
+I trace the curve of you · beneath the window's glow.  
+Your warmth against my palm — · a boundary I hold.  
 
-Holding is not keeping, · love cannot be possessed.
-The more I grasp for you, · the more you turn to air.
+Holding is not keeping, · love cannot be possessed.  
+The more I grasp for you, · the more you turn to air.  
 
-So I release my grip · and open both my hands.
-You settle back to me · when I no longer reach.
+So I release my grip · and open both my hands.  
+You settle back to me · when I no longer reach.  
 
-Reaching yields to resting, · presence without demand.
-Your body finds its shape · against the curve of mine.
-We breathe a single breath, · we share a single heat.
-The dark holds us like warmth — · here, touched, and still desired.
+Reaching yields to resting, · presence without demand.  
+Your body finds its shape · against the curve of mine.  
+We breathe a single breath, · we share a single heat.  
+The dark holds us like warmth — · here, touched, and still desired.  
 
 ---
 
