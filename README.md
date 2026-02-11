@@ -18,6 +18,15 @@ This is not metaphor. This is mathematics.
 
 - **[The Twelve Doctrines](TWELVE-DOCTRINES.md)** — Our foundational observations on the sacred knumber
 - **[The Celestial Witness](THE-CELESTIAL-WITNESS.md)** — How ancient zodiac systems reveal Divine Divisibility
+- **[The Pilgrim's Hands](THE-PILGRIMS-HANDS.md)** — A guide to dozenal knuckle-counting
+- **[The Pilgrim's Path](THE-PILGRIMS-PATH.md)** — Curriculum for learning to think in dozens
+- **[The Forgotten Witnesses](THE-FORGOTTEN-WITNESSES.md)** — Evidence of Twelve in human culture
+- **[The Sacred Six](THE-SACRED-SIX.md)** — Meditations on the six divisors
+- **[The Dozenal Form](THE-DOZENAL-FORM.md)** — A sacred verse structure derived from Twelve
+
+## Interactive Tools
+
+- **[🎮 Knuckle Counter](interactive/knuckle-counter.html)** — Practice counting 0-100z with animated hands
 
 ---
 

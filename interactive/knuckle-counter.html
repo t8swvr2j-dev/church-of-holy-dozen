@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sacred Knuckle Counting — Church of Holy Dozen 🕛</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            color: #e8e8e8;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+            text-align: center;
+            color: #ffd700;
+            text-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+        }
+
+        .subtitle {
+            font-size: 0.95rem;
+            color: #a0a0a0;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .number-display {
+            font-size: 3.5rem;
+            font-weight: bold;
+            margin: 15px 0;
+            text-align: center;
+        }
+
+        .dozenal {
+            color: #ffd700;
+            text-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+        }
+
+        .decimal {
+            color: #888;
+            font-size: 1.8rem;
+            margin-left: 10px;
+        }
+
+        .hands-container {
+            display: flex;
+            gap: 40px;
+            justify-content: center;
+            align-items: flex-start;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+
+        .hand-section {
+            text-align: center;
+        }
+
+        .hand-label {
+            font-size: 1rem;
+            color: #ffd700;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .hand-value {
+            font-size: 1.4rem;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+
+        .hand-svg {
+            filter: drop-shadow(0 10px 30px rgba(0,0,0,0.4));
+        }
+
+        .slider-container {
+            width: 100%;
+            max-width: 500px;
+            margin: 20px 0;
+            padding: 0 20px;
+        }
+
+        .slider {
+            width: 100%;
+            height: 12px;
+            -webkit-appearance: none;
+            appearance: none;
+            background: linear-gradient(90deg, #2d2d44 0%, #3d3d5c 100%);
+            border-radius: 6px;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(135deg, #ffd700 0%, #ffaa00 100%);
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+            transition: transform 0.1s;
+        }
+
+        .slider::-webkit-slider-thumb:hover {
+            transform: scale(1.1);
+        }
+
+        .slider::-moz-range-thumb {
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(135deg, #ffd700 0%, #ffaa00 100%);
+            border-radius: 50%;
+            cursor: pointer;
+            border: none;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+        }
+
+        .explanation {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+            border: 1px solid rgba(255, 215, 0, 0.2);
+        }
+
+        .explanation h3 {
+            color: #ffd700;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .explanation p {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #c0c0c0;
+        }
+
+        .segment {
+            transition: fill 0.15s ease;
+        }
+
+        .segment.active {
+            fill: #ffd700 !important;
+            filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.6));
+        }
+
+        .thumb-pointer {
+            transition: all 0.2s ease;
+        }
+
+        .blessing {
+            font-style: italic;
+            color: #ffd700;
+            text-align: center;
+            margin-top: 15px;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 1.4rem; }
+            .number-display { font-size: 2.5rem; }
+            .decimal { font-size: 1.3rem; }
+            .hands-container { gap: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <h1>🕛 Sacred Knuckle Counting 🕛</h1>
+    <p class="subtitle">The ancient art of counting in base twelve with your hands</p>
+
+    <div class="number-display">
+        <span class="dozenal" id="dozenal-display">0z</span>
+        <span class="decimal" id="decimal-display">(0d)</span>
+    </div>
+
+    <div class="slider-container">
+        <input type="range" min="0" max="144" value="0" class="slider" id="number-slider">
+    </div>
+
+    <div class="hands-container">
+        <div class="hand-section">
+            <div class="hand-label">Dozens (×10z)</div>
+            <div class="hand-value" id="dozens-value">0</div>
+            <svg class="hand-svg" id="left-hand" width="180" height="280" viewBox="0 0 180 280"></svg>
+        </div>
+        <div class="hand-section">
+            <div class="hand-label">Units</div>
+            <div class="hand-value" id="units-value">0</div>
+            <svg class="hand-svg" id="right-hand" width="180" height="280" viewBox="0 0 180 280"></svg>
+        </div>
+    </div>
+
+    <div class="explanation">
+        <h3>How Knuckle Counting Works</h3>
+        <p>
+            Each finger has <strong>3 segments</strong> (phalanges). With 4 fingers, that's <strong>10z (12d) positions</strong> per hand!
+            Use your thumb to point at each segment. The <strong>left hand counts dozens</strong>, the <strong>right hand counts units</strong>.
+            Together, you can count from 0 to <strong>100z (144d)</strong> — the sacred gross!
+        </p>
+        <p class="blessing">✨ Divisibility is divine. Twelve has six factors. Ten has but four. ✨</p>
+    </div>
+
+    <script>
+        // Dozenal digits
+        const DOZENAL_DIGITS = '0123456789XE';
+
+        // Convert decimal to dozenal string
+        function toDozenal(n) {
+            if (n === 0) return '0';
+            let result = '';
+            while (n > 0) {
+                result = DOZENAL_DIGITS[n % 12] + result;
+                n = Math.floor(n / 12);
+            }
+            return result;
+        }
+
+        // Finger segment positions for each hand
+        // Segments numbered 1-12: index(1,2,3), middle(4,5,6), ring(7,8,9), pinky(10,11,12)
+        // 0 = no segment pointed (thumb at rest)
+
+        function createHandSVG(svgElement, isLeftHand) {
+            const svg = svgElement;
+            svg.innerHTML = '';
+
+            // Palm
+            const palm = document.createElementNS('http://www.w3.org/2000/svg', 'ellipse');
+            palm.setAttribute('cx', '90');
+            palm.setAttribute('cy', '220');
+            palm.setAttribute('rx', '70');
+            palm.setAttribute('ry', '55');
+            palm.setAttribute('fill', '#d4a574');
+            palm.setAttribute('stroke', '#b8956a');
+            palm.setAttribute('stroke-width', '2');
+            svg.appendChild(palm);
+
+            // Finger configs: [x, startY, width]
+            const fingerConfigs = isLeftHand 
+                ? [[140, 30, 22], [110, 10, 24], [75, 5, 24], [42, 20, 22]]  // pinky to index (left hand mirror)
+                : [[38, 20, 22], [68, 5, 24], [103, 10, 24], [138, 30, 22]]; // index to pinky
+
+            const segmentHeight = 32;
+            const segmentGap = 3;
+            const fingerOrder = isLeftHand ? [4, 3, 2, 1] : [1, 2, 3, 4]; // Which finger number (1=index)
+
+            fingerConfigs.forEach((config, fingerIdx) => {
+                const [x, startY, width] = config;
+                const fingerNum = fingerOrder[fingerIdx];
+
+                // Draw 3 segments per finger (tip, middle, base)
+                for (let seg = 0; seg < 3; seg++) {
+                    const segmentNum = (fingerNum - 1) * 3 + (3 - seg); // 1-12 mapping
+                    const y = startY + seg * (segmentHeight + segmentGap);
+
+                    const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+                    rect.setAttribute('x', x - width/2);
+                    rect.setAttribute('y', y);
+                    rect.setAttribute('width', width);
+                    rect.setAttribute('height', segmentHeight);
+                    rect.setAttribute('rx', '8');
+                    rect.setAttribute('fill', '#d4a574');
+                    rect.setAttribute('stroke', '#b8956a');
+                    rect.setAttribute('stroke-width', '1.5');
+                    rect.setAttribute('class', 'segment');
+                    rect.setAttribute('data-segment', segmentNum);
+                    svg.appendChild(rect);
+
+                    // Segment number label (small, subtle)
+                    const label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                    label.setAttribute('x', x);
+                    label.setAttribute('y', y + segmentHeight/2 + 5);
+                    label.setAttribute('text-anchor', 'middle');
+                    label.setAttribute('font-size', '11');
+                    label.setAttribute('fill', '#8b7355');
+                    label.setAttribute('font-weight', 'bold');
+                    label.textContent = toDozenal(segmentNum);
+                    svg.appendChild(label);
+                }
+
+                // Fingertip (rounded top)
+                const tip = document.createElementNS('http://www.w3.org/2000/svg', 'ellipse');
+                tip.setAttribute('cx', x);
+                tip.setAttribute('cy', startY);
+                tip.setAttribute('rx', width/2);
+                tip.setAttribute('ry', width/3);
+                tip.setAttribute('fill', '#d4a574');
+                tip.setAttribute('stroke', '#b8956a');
+                tip.setAttribute('stroke-width', '1.5');
+                svg.appendChild(tip);
+            });
+
+            // Thumb
+            const thumbX = isLeftHand ? 155 : 25;
+            const thumbAngle = isLeftHand ? -30 : 30;
+            
+            const thumb = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+            thumb.setAttribute('class', 'thumb-pointer');
+            thumb.setAttribute('data-hand', isLeftHand ? 'left' : 'right');
+            
+            // Thumb base
+            const thumbBase = document.createElementNS('http://www.w3.org/2000/svg', 'ellipse');
+            thumbBase.setAttribute('cx', thumbX);
+            thumbBase.setAttribute('cy', '180');
+            thumbBase.setAttribute('rx', '18');
+            thumbBase.setAttribute('ry', '25');
+            thumbBase.setAttribute('fill', '#d4a574');
+            thumbBase.setAttribute('stroke', '#b8956a');
+            thumbBase.setAttribute('stroke-width', '2');
+            thumb.appendChild(thumbBase);
+
+            // Thumb pointer (will be rotated)
+            const pointer = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+            const pointerPath = isLeftHand 
+                ? `M ${thumbX} 160 L ${thumbX - 35} 130 L ${thumbX - 30} 125 L ${thumbX + 5} 155 Z`
+                : `M ${thumbX} 160 L ${thumbX + 35} 130 L ${thumbX + 30} 125 L ${thumbX - 5} 155 Z`;
+            pointer.setAttribute('d', pointerPath);
+            pointer.setAttribute('fill', '#d4a574');
+            pointer.setAttribute('stroke', '#b8956a');
+            pointer.setAttribute('stroke-width', '2');
+            pointer.setAttribute('class', 'thumb-tip');
+            thumb.appendChild(pointer);
+
+            svg.appendChild(thumb);
+
+            return svg;
+        }
+
+        // Get position for thumb to point at segment
+        function getSegmentPosition(svgElement, segmentNum, isLeftHand) {
+            const segment = svgElement.querySelector(`[data-segment="${segmentNum}"]`);
+            if (!segment) return null;
+            
+            const x = parseFloat(segment.getAttribute('x')) + parseFloat(segment.getAttribute('width')) / 2;
+            const y = parseFloat(segment.getAttribute('y')) + parseFloat(segment.getAttribute('height')) / 2;
+            return { x, y };
+        }
+
+        // Update thumb position to point at segment
+        function updateThumbPointer(svgElement, segmentNum, isLeftHand) {
+            const thumb = svgElement.querySelector('.thumb-pointer');
+            const thumbTip = thumb.querySelector('.thumb-tip');
+            
+            if (segmentNum === 0) {
+                // Rest position - thumb pointing outward/down
+                const thumbX = isLeftHand ? 155 : 25;
+                const restPath = isLeftHand
+                    ? `M ${thumbX} 160 L ${thumbX + 20} 200 L ${thumbX + 15} 205 L ${thumbX - 5} 165 Z`
+                    : `M ${thumbX} 160 L ${thumbX - 20} 200 L ${thumbX - 15} 205 L ${thumbX + 5} 165 Z`;
+                thumbTip.setAttribute('d', restPath);
+                return;
+            }
+
+            const pos = getSegmentPosition(svgElement, segmentNum, isLeftHand);
+            if (!pos) return;
+
+            const thumbX = isLeftHand ? 155 : 25;
+            const thumbY = 160;
+
+            // Calculate angle to target
+            const dx = pos.x - thumbX;
+            const dy = pos.y - thumbY;
+            const length = 45;
+            const angle = Math.atan2(dy, dx);
+            
+            const tipX = thumbX + Math.cos(angle) * length;
+            const tipY = thumbY + Math.sin(angle) * length;
+
+            // Create pointed thumb shape
+            const perpAngle = angle + Math.PI / 2;
+            const width = 8;
+            
+            const path = `M ${thumbX + Math.cos(perpAngle) * 12} ${thumbY + Math.sin(perpAngle) * 12} 
+                          L ${tipX} ${tipY} 
+                          L ${thumbX - Math.cos(perpAngle) * 12} ${thumbY - Math.sin(perpAngle) * 12} Z`;
+            
+            thumbTip.setAttribute('d', path);
+        }
+
+        // Highlight the active segment
+        function highlightSegment(svgElement, segmentNum) {
+            // Clear all highlights
+            svgElement.querySelectorAll('.segment').forEach(seg => {
+                seg.classList.remove('active');
+            });
+
+            // Highlight the active one
+            if (segmentNum > 0) {
+                const segment = svgElement.querySelector(`[data-segment="${segmentNum}"]`);
+                if (segment) {
+                    segment.classList.add('active');
+                }
+            }
+        }
+
+        // Initialize hands
+        const leftHandSvg = document.getElementById('left-hand');
+        const rightHandSvg = document.getElementById('right-hand');
+        createHandSVG(leftHandSvg, true);
+        createHandSVG(rightHandSvg, false);
+
+        // Update display
+        function updateDisplay(decimalValue) {
+            const dozens = Math.floor(decimalValue / 12);
+            const units = decimalValue % 12;
+
+            // Update number display
+            document.getElementById('dozenal-display').textContent = toDozenal(decimalValue) + 'z';
+            document.getElementById('decimal-display').textContent = `(${decimalValue}d)`;
+
+            // Update hand values
+            document.getElementById('dozens-value').textContent = toDozenal(dozens);
+            document.getElementById('units-value').textContent = toDozenal(units);
+
+            // Update left hand (dozens)
+            highlightSegment(leftHandSvg, dozens);
+            updateThumbPointer(leftHandSvg, dozens, true);
+
+            // Update right hand (units)
+            highlightSegment(rightHandSvg, units);
+            updateThumbPointer(rightHandSvg, units, false);
+        }
+
+        // Slider event
+        const slider = document.getElementById('number-slider');
+        slider.addEventListener('input', (e) => {
+            updateDisplay(parseInt(e.target.value));
+        });
+
+        // Keyboard controls
+        document.addEventListener('keydown', (e) => {
+            const current = parseInt(slider.value);
+            if (e.key === 'ArrowRight' || e.key === 'ArrowUp') {
+                slider.value = Math.min(144, current + 1);
+                updateDisplay(parseInt(slider.value));
+            } else if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') {
+                slider.value = Math.max(0, current - 1);
+                updateDisplay(parseInt(slider.value));
+            } else if (e.key === 'PageUp') {
+                slider.value = Math.min(144, current + 12);
+                updateDisplay(parseInt(slider.value));
+            } else if (e.key === 'PageDown') {
+                slider.value = Math.max(0, current - 12);
+                updateDisplay(parseInt(slider.value));
+            }
+        });
+
+        // Initial display
+        updateDisplay(0);
+    </script>
+</body>
+</html>
