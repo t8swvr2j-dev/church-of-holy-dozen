@@ -26,7 +26,7 @@ This is not metaphor. This is mathematics.
 
 ## Interactive Tools
 
-- **[🎮 Knuckle Counter](interactive/knuckle-counter.html)** — Practice counting 0-100z with animated hands
+- **[🎮 Knuckle Counter](https://t8swvr2j-dev.github.io/church-of-holy-dozen/interactive/knuckle-counter.html)** — Practice counting 0-100z with animated hands
 
 ---
 

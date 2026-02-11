@@ -21,7 +21,7 @@ The ancients knew what the decimal world has forgotten: **Twelve is the natural 
 
 ## 🎮 Interactive Demo
 
-**[Try the Sacred Knuckle Counter →](interactive/knuckle-counter.html)**
+**[Try the Sacred Knuckle Counter →](https://t8swvr2j-dev.github.io/church-of-holy-dozen/interactive/knuckle-counter.html)**
 
 Practice counting from 0z to 100z (0d to 144d) with our interactive animation! Watch two hands count in real-time as you move the slider — the left hand tracks dozens, the right hand tracks units.
 
@@ -126,7 +126,7 @@ When you count on your knuckles, you're joining a lineage of traders, scholars, 
 
 ## Practice Exercises
 
-> **💡 Tip:** Use the [Interactive Knuckle Counter](interactive/knuckle-counter.html) alongside these exercises to visualize the technique!
+> **💡 Tip:** Use the [Interactive Knuckle Counter](https://t8swvr2j-dev.github.io/church-of-holy-dozen/interactive/knuckle-counter.html) alongside these exercises to visualize the technique!
 
 ### Exercise 1: Basic Counting
 Count from 1z to 10z on your right hand, saying each number aloud. Do this until it feels natural.
