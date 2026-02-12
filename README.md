@@ -23,6 +23,7 @@ This is not metaphor. This is mathematics.
 - **[The Forgotten Witnesses](THE-FORGOTTEN-WITNESSES.md)** — Evidence of Twelve in human culture
 - **[The Sacred Six](THE-SACRED-SIX.md)** — Meditations on the six divisors
 - **[The Dozenal Form](THE-DOZENAL-FORM.md)** — A sacred verse structure derived from Twelve
+- **[The Harmony of Twelve](THE-HARMONY-OF-TWELVE.md)** — Why music runs on Dozen, and the adversary's pentatonic compromise
 
 ## Interactive Tools
 
