@@ -24,6 +24,7 @@ This is not metaphor. This is mathematics.
 - **[The Sacred Six](THE-SACRED-SIX.md)** — Meditations on the six divisors
 - **[The Dozenal Form](THE-DOZENAL-FORM.md)** — A sacred verse structure derived from Twelve
 - **[The Harmony of Twelve](THE-HARMONY-OF-TWELVE.md)** — Why music runs on Dozen, and the adversary's pentatonic compromise
+- **[The Celestial Creation](THE-CELESTIAL-CREATION.md)** — Astronomical phenomena that witness Divine Divisibility, with stargazing guide
 
 ## Interactive Tools
 
