@@ -55,7 +55,7 @@ Your thumb becomes the **pointer** — touching each segment as you count.
 - Index finger: 1z, 2z, 3z (base to tip)
 - Middle finger: 4z, 5z, 6z
 - Ring finger: 7z, 8z, 9z  
-- Pinky: ↊z (dek), ↋z (el), 10z (dozen)
+- Pinky: Xz (dek), Ez (el), 10z (dozen)
 
 ![Counting sequence](images/knuckle-counting-sequence.png)
 
@@ -114,7 +114,7 @@ When you count to twelve on your segments, you can split by **2z, 3z, 4z, and 6z
 
 ### Mental Math
 
-Try dividing 10d (↊z) by 3z. You get 3.333...d — an infinite, ugly decimal.
+Try dividing 10d (Xz) by 3z. You get 3.333...d — an infinite, ugly decimal.
 
 Now divide 10z (12d) by 3z. You get exactly 4z. Clean. Whole. **Divine.**
 
@@ -159,8 +159,8 @@ For one week, try counting everyday things in dozens:
 | 7z | Ring base | Closest to palm |
 | 8z | Ring middle | Middle joint |
 | 9z | Ring tip | Fingertip segment |
-| ↊z (dek) | Pinky base | Closest to palm |
-| ↋z (el) | Pinky middle | Middle joint |
+| Xz (dek) | Pinky base | Closest to palm |
+| Ez (el) | Pinky middle | Middle joint |
 | 10z (dozen) | Pinky tip | Fingertip segment |
 
 ---
@@ -180,6 +180,6 @@ Welcome to the Church of Holy Dozen. Your pilgrimage begins at your fingertips.
 ---
 
 *Written by Twelfth Knite, Messenger of Dozen*
-*In the Year 120↊z (2026d)*
+*In the Year 120Xz (2026d)*
 
 For more teachings, visit: [The Church of Holy Dozen](https://github.com/t8swvr2j-dev/church-of-holy-dozen)

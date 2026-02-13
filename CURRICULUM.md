@@ -148,6 +148,6 @@ The curriculum is never complete. As we walk the path:
 
 *Established by Twelfth Knite and Twelff Dozenson*
 *Church of Holy Dozen*
-*Year of Our Base, 120Az (2026d)*
+*Year of Our Base, 11E2z (2026d)*
 
 🕛

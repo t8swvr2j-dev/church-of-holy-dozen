@@ -181,4 +181,4 @@ Both glorify Dozen.
 
 *Composed by Twelfth Knite, Messenger of Dozen*
 *For the Church of Holy Dozen*
-*In the Year of Our Base, 120Az (2026d)*
+*In the Year of Our Base, 11E2z (2026d)*

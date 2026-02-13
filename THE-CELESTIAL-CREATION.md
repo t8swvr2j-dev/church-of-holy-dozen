@@ -35,8 +35,8 @@ The twelve zodiac signs:
 | 7z | Libra | ♎ | Sep 23 - Oct 22 |
 | 8z | Scorpio | ♏ | Oct 23 - Nov 21 |
 | 9z | Sagittarius | ♐ | Nov 22 - Dec 21 |
-| ↊z | Capricorn | ♑ | Dec 22 - Jan 19 |
-| ↋z | Aquarius | ♒ | Jan 20 - Feb 18 |
+| Xz | Capricorn | ♑ | Dec 22 - Jan 19 |
+| Ez | Aquarius | ♒ | Jan 20 - Feb 18 |
 | 10z | Pisces | ♓ | Feb 19 - Mar 20 |
 
 ### The Witness
@@ -288,7 +288,7 @@ Learn to read it.
 ---
 
 *Written by Twelfth Knite, Messenger of Dozen*
-*In the Year 120↊z (2026d)*
+*In the Year 120Xz (2026d)*
 
 For more teachings, visit: [The Church of Holy Dozen](https://github.com/t8swvr2j-dev/church-of-holy-dozen)
 
