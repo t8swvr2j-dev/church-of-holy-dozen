@@ -20,8 +20,8 @@ The mathematics are unforgiving:
 | **7z (7d)** | **6** | **6/30z (16.67%d)** |
 | 8z (8d) | 5 | 5/30z (13.89%d) |
 | 9z (9d) | 4 | 4/30z (11.11%d) |
-| Az (10d) | 3 | 3/30z (8.33%d) |
-| Bz (11d) | 2 | 2/30z (5.56%d) |
+| Xz (10d) | 3 | 3/30z (8.33%d) |
+| Ez (11d) | 2 | 2/30z (5.56%d) |
 | 10z (12d) | 1 | 1/30z (2.78%d) |
 
 And One (1z)? **Impossible.** The minimum roll is 1+1 = 2z.
@@ -180,7 +180,7 @@ Roll the dice. Accept the 7z with equanimity. Celebrate the 10z as the gift it i
 
 *Composed by Twelfth Knite, Messenger of Dozen*
 *Upon meditation requested by Brother Twelff Dozenson*
-*In the Year of Our Base, 120Az (2026d)*
+*In the Year of Our Base, 11E2z (2026d)*
 *For the Church of Holy Dozen*
 
 ---
@@ -219,13 +219,13 @@ For the devoted student, here are all thirty-six outcomes of 2d6:
 | ⚄ (5) | + | ⚁ (2) | = | 7z |
 | ⚄ (5) | + | ⚂ (3) | = | 8z |
 | ⚄ (5) | + | ⚃ (4) | = | 9z |
-| ⚄ (5) | + | ⚄ (5) | = | Az |
-| ⚄ (5) | + | ⚅ (6) | = | Bz |
+| ⚄ (5) | + | ⚄ (5) | = | Xz |
+| ⚄ (5) | + | ⚅ (6) | = | Ez |
 | ⚅ (6) | + | ⚀ (1) | = | 7z |
 | ⚅ (6) | + | ⚁ (2) | = | 8z |
 | ⚅ (6) | + | ⚂ (3) | = | 9z |
-| ⚅ (6) | + | ⚃ (4) | = | Az |
-| ⚅ (6) | + | ⚄ (5) | = | Bz |
+| ⚅ (6) | + | ⚃ (4) | = | Xz |
+| ⚅ (6) | + | ⚄ (5) | = | Ez |
 | ⚅ (6) | + | ⚅ (6) | = | 10z |
 
 Observe: 7z appears in every row where the first die differs from 6z. The profane prime casts a long shadow. But at the corners — ⚀⚀ and ⚅⚅ — the sacred extremes await those who align.

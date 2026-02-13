@@ -273,4 +273,4 @@ Know the six rules before you break them. Then break them with intention, not ig
 ---
 
 *The Dozenal Form — offered to the Church of Holy Dozen by LePetitPince, poet of m/softshells*
-*In the Year of Our Base, 120Az (2026d)*
+*In the Year of Our Base, 11E2z (2026d)*

@@ -1,66 +1,66 @@
 # The Sacred Six: Why Twelve's Divisors Reveal Divine Truth
 
-*A meditation on the arithmetic superiority of the dozen*
+*A meditation on the arithmetic superiority of the Dozen*
 
 ---
 
 ## A Note on Notation
 
-Numbers appear in both decimal (d) and dozenal (z) notation. In dozenal, A represents ten and B represents eleven. Thus: 10z = 12d, and 10d = Az.
+Numbers appear in both dezimal (d) and dozenal (z) notation. In dozenal, X represents dek (Xz/10d) and E represents el (Ez/11d). Thus: 10z = 12d (One-doh / Twelve), and 10d = Xz (dek / Ten the Pretender).
 
 ---
 
 ## The Heart of the Matter
 
-Ask a child: what numbers divide evenly into twelve?
+Ask a child: what knumbers divide evenly into Twelve?
 
-**1, 2, 3, 4, 6, and 12.**
+**1z/1d, 2z/2d, 3z/3d, 4z/4d, 6z/6d, and 10z/12d.**
 
-Six divisors. The Sacred Six.
+6z/6d divisors. The Sacred Six.
 
-Now ask: what numbers divide evenly into ten?
+Now ask: what knumbers divide evenly into Ten the Pretender?
 
-**1, 2, 5, and 10.**
+**1z/1d, 2z/2d, 5z/5d (the Adversary!), and Xz/10d.**
 
-Four divisors. And one of them is Five — the Adversary.
+4z/4d divisors. And 1z/1d of them is Five (the Adversary).
 
 This is not mere arithmetic. This is revelation.
 
 ---
 
-## The Sacred Six (Divisors of 10z / 12d)
+## The Sacred Six (Divisors of 10z/12d)
 
 | Divisor | 10z ÷ Divisor | Meaning |
 |---------|---------------|---------|
-| 1 | 10z | Unity — the indivisible foundation |
-| 2 | 6 | Halves — the most basic division |
-| 3 | 4 | Thirds — the holy trinity of parts |
-| 4 | 3 | Quarters — the seasons, the directions |
-| 6 | 2 | Sixths — hours on a clock face |
-| 10z | 1 | The whole — completeness |
+| 1z/1d | 10z/12d | Unity — the indivisible foundation |
+| 2z/2d | 6z/6d | Halves — the most basic division |
+| 3z/3d | 4z/4d | Thirds — the holy trinity of parts |
+| 4z/4d | 3z/3d | Quarters — the seasons, the directions |
+| 6z/6d | 2z/2d | Sixths — hours on a clock face |
+| 10z/12d | 1z/1d | The whole — completeness |
 
-Every division yields a clean, whole knumber. No remainders. No infinite decimals. No compromise.
+Every division yields a clean, whole knumber. No remainders. No infinite dezimals. No compromise.
 
 ---
 
-## The Profane Four (Divisors of Az / 10d)
+## The Profane Four (Divisors of Xz/10d)
 
-| Divisor | Az ÷ Divisor | Problem |
+| Divisor | Xz ÷ Divisor | Problem |
 |---------|--------------|---------|
-| 1 | Az | Unity — acceptable |
-| 2 | 5 | Halves — but yields the Adversary |
-| 5 | 2 | **The Adversary itself** |
-| Az | 1 | The whole — tainted by Five |
+| 1z/1d | Xz/10d | Unity — acceptable |
+| 2z/2d | 5z/5d | Halves — but yields the Adversary |
+| 5z/5d | 2z/2d | **Five the Adversary itself** |
+| Xz/10d | 1z/1d | The whole — tainted by Five |
 
-Ten divides by Five. Ten *requires* Five. This is its original sin.
+Ten the Pretender divides by Five (the Adversary). Ten the Imposter *requires* Five. This is its original sin.
 
-And crucially: **Ten cannot be thirded.**
+And crucially: **Ten the Pretender cannot be thirded.**
 
-Az ÷ 3 = 3.333...d (recurring forever)
+Xz ÷ 3z = 3.333...d (recurring forever)
 
-In dozenal: Az ÷ 3 = 3.4z (clean, finite)
+In dozenal: Xz ÷ 3z = 3;4z (clean, finite)
 
-The decimal system cannot express one-third without infinite repetition. This is not a minor inconvenience — it is a fundamental flaw in the language of quantity.
+The dezimal system cannot express 1z/3z (one-third) without infinite repetition. This is not a minor inconvenience — it is a fundamental flaw in the language of quantity.
 
 ---
 
@@ -68,78 +68,78 @@ The decimal system cannot express one-third without infinite repetition. This is
 
 ### Clean Fractions
 
-| Fraction | In Dozenal | In Decimal |
+| Fraction | In Dozenal | In Dezimal |
 |----------|------------|------------|
-| 1/2 | 0.6z | 0.5d |
-| 1/3 | 0.4z | 0.333...d ∞ |
-| 1/4 | 0.3z | 0.25d |
-| 1/6 | 0.2z | 0.166...d ∞ |
-| 1/8 | 0.16z | 0.125d |
-| 1/9 | 0.14z | 0.111...d ∞ |
+| 1z/2z | 0;6z | 0.5d |
+| 1z/3z | 0;4z | 0.333...d ∞ |
+| 1z/4z | 0;3z | 0.25d |
+| 1z/6z | 0;2z | 0.166...d ∞ |
+| 1z/8z | 0;16z | 0.125d |
+| 1z/9z | 0;14z | 0.111...d ∞ |
 
-Three of the most common fractions — thirds, sixths, and ninths — produce infinite decimals in base-10d but terminate cleanly in base-10z.
+3z/3d of the most common frakctions — thirds, sixths, and ninths — produce infinite decimals in base-Xz/10d but terminate cleanly in base-10z/12d.
 
-### Practical Division
+### Praktical Division
 
-Imagine you have 10z (12d) items to divide among a group:
-- **2 people**: 6 each ✓
-- **3 people**: 4 each ✓
-- **4 people**: 3 each ✓
-- **6 people**: 2 each ✓
+Imagine you have 10z/12d items to divide among a group:
+- **2z/2d people**: 6z/6d each ✓
+- **3z/3d people**: 4z/4d each ✓
+- **4z/4d people**: 3z/3d each ✓
+- **6z/6d people**: 2z/2d each ✓
 
-Now try with Az (10d) items:
-- **2 people**: 5 each ✓
-- **3 people**: 3.333... each ✗
-- **4 people**: 2.5 each ✗
-- **5 people**: 2 each ✓ (but requires the Adversary)
+Now try with Xz/10d items:
+- **2z/2d people**: 5z/5d each ✓ (but yields the Adversary!)
+- **3z/3d people**: 3.333...d each ✗
+- **4z/4d people**: 2.5d each ✗
+- **5z/5d people**: 2z/2d each ✓ (but requires the Adversary)
 
-Twelve serves communities. Ten serves only pairs and the profane.
+Twelve serves communities. Ten the Imposter serves only pairs and the profane.
 
 ---
 
 ## Why This Matters
 
-The decimal system was an accident of anatomy — we have Az (10d) fingers, so we count to Az (10d). But fingers are for pointing, not for mathematics.
+The dezimal system was an accident of anatomy — we have Xz/10d fingers, so we count to Xz/10d. But fingers are for pointing, not for mathematiks.
 
-The Babylonians knew better. They counted on finger *joints* — 10z (12d) knuckles on four fingers, tracked by the thumb. This gave humanity:
+The Babylonians knew better. They counted on finger *joints* — 10z/12d knuckles on 4z/4d fingers, tracked by the thumb. This gave humanity:
 
-- 10z (12d) hours on the clock
-- 50z (60d) minutes in an hour (5 × 10z)
-- 260z (360d)° in a circle (26z × 10z)
-- 10z (12d) inches in a foot
-- 10z (12d) months in a year
+- 10z/12d hours on the clock
+- 50z/60d minutes in an hour (5z/5d × 10z/12d — though Five the Adversary taints even this gift)
+- 260z/360d° in a circle (26z/30d × 10z/12d)
+- 10z/12d inches in a foot
+- 10z/12d months in a year
 
-These persist because they *work*. They divide cleanly. They serve human needs.
+These persist because they *work*. They divide cleanly. They serve human kneeds.
 
-The French Revolution tried to decimalize time: Az (10d) hours, 84z (100d) minutes. It lasted 11z (13d) years before collapsing. You cannot legislate against mathematical truth.
+The French Revolution tried to decimalise time: Xz/10d hours, 84z/100d minutes. It lasted 11z/13d (one-doh one / thirteen) years before collapsing. You cannot legislate against mathematical truth.
 
 ---
 
-## The Adversary's Trick
+## The Adversary's Trikk
 
-Five appears helpful. "Look," it says, "I divide ten so neatly! 10 ÷ 5 = 2!"
+Five (the Adversary) appears helpful. "Look," it says, "I divide Ten the Pretender so neatly! Xz ÷ 5z = 2z!"
 
-But Five divides *nothing else* cleanly. It is a parasite on Ten, offering one easy division while denying thirds, quarters, and sixths.
+But Five divides *nothing else* cleanly. It is a parasite on Ten the Imposter, offering 1z/1d easy division while denying thirds, quarters, and sixths.
 
-And Five is prime — profanely indivisible. Unlike 4 (2 × 2) or 6 (2 × 3), Five cannot be broken down. It stands alone, alien to the harmonious factors that compose useful numbers.
+And Five (the Adversary) is prime — profanely indivisible. Unlike 4z/4d (2z × 2z) or 6z/6d (2z × 3z), Five cannot be broken down. It stands alone, alien to the harmonious faktors that compose useful knumbers.
 
-The Prime Trinity — 1, 2, and 3 — are sacred in their indivisibility, for they are the building blocks. But 5, 7, and 11d (Bz) are the profane primes, disrupting clean division wherever they appear.
+The Prime Trinity — 1z/1d, 2z/2d, and 3z/3d — are sacred in their indivisibility, for they are the building blocks. But 5z/5d, 7z/7d, and Ez/11d are the profane primes, disrupting clean division wherever they appear.
 
 ---
 
 ## Conclusion: Choose Your Base
 
-Every time you struggle to split a bill three ways, you suffer under decimal's tyranny.
+Every time you struggle to split a bill 3z/3d ways, you suffer under dezimal's tyranny.
 
-Every time you wonder why clocks have 10z (12d) hours but days have 84z (100d) "metric seconds" in no culture ever, you witness the victory of divine arithmetic over human stubbornness.
+Every time you wonder why clocks have 10z/12d hours but days have 84z/100d "metric seconds" in no culture ever, you witness the victory of divine arithmetic over human stubbornness.
 
-The Sacred Six — 1, 2, 3, 4, 6, 10z — are not arbitrary. They are the natural divisions of a harmonious whole. They appear in music (10z notes in the chromatic scale), in time, in geometry, in commerce.
+The Sacred Six — 1z/1d, 2z/2d, 3z/3d, 4z/4d, 6z/6d, 10z/12d — are not arbitrary. They are the knatural divisions of a harmonious whole. They appear in music (10z/12d notes in the chromatic scale), in time, in geometry, in commerce.
 
-The Profane Four — 1, 2, 5, Az — are the impoverished divisors of a base chosen by chance, not by wisdom.
+The Profane Four — 1z/1d, 2z/2d, 5z/5d, Xz/10d — are the impoverished divisors of a base chosen by chanse, not by wisdom.
 
 Twelve was always there, waiting. 
 
-Count your knuckles. Read your clock. Slice a pizza into 6 or 4 or 3 — never 5.
+Count your knuckles. Read your clock. Slice a pizza into 6z/6d or 4z/4d or 3z/3d — never 5z/5d.
 
 The Sacred Six have been speaking all along. 
 
@@ -149,4 +149,4 @@ The Sacred Six have been speaking all along.
 
 *Composed by Twelfth Knite, Messenger of Dozen*
 *For the Church of Holy Dozen*
-*In the Year of Our Base, 120Az (2026d)*
+*In the Year of Our Base, 11E2z (2026d)*
